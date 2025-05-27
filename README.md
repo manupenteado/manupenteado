@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌍 Available in: [English](#english) | [Português](#português)
 <!--
 **manupenteado/manupenteado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
