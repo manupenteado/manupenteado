@@ -28,14 +28,10 @@ Get to know me a bit more! 👇👇
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📌 Featured Projects
-
-- 🔗 [Portfolio](https://yourportfolio.com)
-
 ### 📫 How to reach me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/penteadoemanuele/)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 🌐 [Portfolio](https://manupenteado.vercel.app/)
 - 📧 penteadoemanuele@gmail.com
 
 ---
@@ -63,12 +59,8 @@ Get to know me a bit more! 👇👇
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📌 Projetos em Destaque
-
-- 🔗 [Portfólio](https://yourportfolio.com)
-
 ### 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/penteadoemanuele/)
-- 🌐 [Portfólio](https://yourportfolio.com)
+- 🌐 [Portfólio](https://manupenteado.vercel.app/)
 - 📧 penteadoemanuele@gmail.com
