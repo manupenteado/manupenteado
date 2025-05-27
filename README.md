@@ -34,7 +34,7 @@ Get to know me a bit more! 👇👇
 
 ### 📫 How to reach me
 
-- 💼 [LinkedIn](https://linkedin.com/in/username](https://www.linkedin.com/in/penteadoemanuele/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/penteadoemanuele/)
 - 🌐 [Portfolio](https://yourportfolio.com)
 - 📧 penteadoemanuele@gmail.com
 
@@ -69,6 +69,6 @@ Get to know me a bit more! 👇👇
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/username](https://www.linkedin.com/in/penteadoemanuele/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/penteadoemanuele/)
 - 🌐 [Portfólio](https://yourportfolio.com)
 - 📧 penteadoemanuele@gmail.com
