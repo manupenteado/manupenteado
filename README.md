@@ -1,18 +1,17 @@
 ## Hi there👋
 I'm Emanuele, but you can call me Manu.
-Get to know me a bit more! 👇👇
-🌍 Available in: [English](#english) | [Português](#português)
+Get to know me a bit more!
+Available in: [English](#english) | [Português](#português)
 
 ---
 
 ## English
 
-👋 Hi there! I'm Manu.  
-🎓 I'm a Computer Engineering student at Senai Cimatec University.  
-💻 I’m driven by the desire to build technology solutions that empower communities, fostering positive impact and meaningful change.
-🚀 Constantly learning and building new things.
+Hi there! I'm Manu :)
+I'm a Computer Engineering student at Senai Cimatec University.  
+I’m driven by the desire to build technology solutions that empower communities, fostering positive impact and meaningful change.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -28,22 +27,22 @@ Get to know me a bit more! 👇👇
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📫 How to reach me
+### How to reach me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/penteadoemanuele/)
-- 🌐 [Portfolio](https://manupenteado.vercel.app/)
-- 📧 penteadoemanuele@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/penteadoemanuele/)
+- [Portfolio](https://manupenteado.vercel.app/)
+- penteadoemanuele@gmail.com
 
 ---
 
 ## Português
 
-👋 Olá! Eu sou Manu.  
-🎓 Sou estudante de Engenharia de Computação na Universidade Senai Cimatec.
-💻 Tenho paixão por criar soluções tecnológicas que contribuam para o avanço da comunidade, sempre buscando gerar um impacto positivo no mundo
-🚀 Sempre aprendendo e construindo novos projetos.
+Olá! Eu sou Emanuele, mas pode me chamar de Manu :)
+Sou estudante de Engenharia de Computação na Universidade Senai Cimatec.
+Tenho paixão por criar soluções tecnológicas que contribuam para o avanço da comunidade, sempre buscando gerar um impacto positivo no mundo
+Sempre aprendendo e construindo novos projetos.
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -59,8 +58,8 @@ Get to know me a bit more! 👇👇
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📫 Como me encontrar
+### Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/penteadoemanuele/)
-- 🌐 [Portfólio](https://manupenteado.vercel.app/)
-- 📧 penteadoemanuele@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/penteadoemanuele/)
+- [Portfólio](https://manupenteado.vercel.app/)
+- penteadoemanuele@gmail.com
