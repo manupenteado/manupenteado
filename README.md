@@ -40,7 +40,6 @@ I’m driven by the desire to build technology solutions that empower communitie
 Olá! Eu sou Emanuele, mas pode me chamar de Manu :)
 Sou estudante de Engenharia de Computação na Universidade Senai Cimatec.
 Tenho paixão por criar soluções tecnológicas que contribuam para o avanço da comunidade, sempre buscando gerar um impacto positivo no mundo
-Sempre aprendendo e construindo novos projetos.
 
 ### Tecnologias
 
